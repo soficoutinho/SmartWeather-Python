@@ -37,6 +37,3 @@ python -m unittest discover -s tests -v
 - Precipitação exibida é atual, não probabilidade futura de chuva.
 - Em cidades homônimas, a API utiliza o primeiro resultado; pode ser necessário refinar o nome da cidade.
 - É necessária conexão à internet para consultar a API.
-
-## Entrega
-Publique o código no GitHub ou envie o ZIP, e forneça separadamente o link de vídeo narrado de 2 a 5 minutos.
